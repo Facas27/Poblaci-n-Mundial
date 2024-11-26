@@ -1,2 +1,4 @@
-# Poblacion-Mundial
-Proyecto de Métodos Numéricos 2 - Población Mundial por Martín Aguero y Facundo Abbas
+# Proyecto: Población Mundial
+
+### Métodos Numéricos 2 - 2024
+**Integrantes**: Abbas, Facundo Jesus - Agüero Trevisan, Martin Gabriel
